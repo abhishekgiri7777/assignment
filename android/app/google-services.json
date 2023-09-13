@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "352830610478",
+    "project_id": "testingapp-fdb16",
+    "storage_bucket": "testingapp-fdb16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352830610478:android:a7b244ba44a0a0191193bf",
+        "android_client_info": {
+          "package_name": "com.test.abhishek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACgvo_FCUDtMem-DH-LgfCn6-btBoBo7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
